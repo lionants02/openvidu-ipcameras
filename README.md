@@ -51,6 +51,7 @@ Then you can clone, compile and run openvidu-ipcameras application:
 ```
 git clone https://github.com/OpenVidu/openvidu-tutorials.git
 cd openvidu-tutorials/openvidu-ipcameras
+mvn install
 mvn package exec:java
 ```
 
